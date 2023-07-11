@@ -12,5 +12,5 @@ def mul(a,b)
 }
 def div(a,b)
 {
-  echo "div of {a} and {b} is ${a%b}"
+  echo "div of {a} and {b} is ${a/b}"
 }
